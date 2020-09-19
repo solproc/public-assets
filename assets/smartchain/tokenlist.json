@@ -20,7 +20,7 @@
       "chainId": 1,
       "name": "Wrapped Binance",
       "symbol": "WBNB",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
     },
@@ -29,7 +29,7 @@
       "chainId": 1,
       "name": "Ethereum Token",
       "symbol": "ETH",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
     },
@@ -38,7 +38,7 @@
       "chainId": 1,
       "name": "TetherUSD",
       "symbol": "USDT",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x55d398326f99059fF775485246999027B3197955/logo.png"
     },
@@ -47,7 +47,7 @@
       "chainId": 1,
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
     },
@@ -56,7 +56,7 @@
       "chainId": 1,
       "name": "Omega Protocol Money",
       "symbol": "OPM",
-      "tags":["DeFi","dApp","DEX","Cross-Chain"],
+      "tags":["DeFi"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x8903Cefabdf9aD5f0EB2bf29bF0Ad2cd5D74Ce20/logo.png"
     },
@@ -65,7 +65,7 @@
       "chainId": 1,
       "name": "BTCB Token",
       "symbol": "BTCB",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
     },
@@ -74,7 +74,7 @@
       "chainId": 1,
       "name": "Dai Token",
       "symbol": "DAI",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
     },
@@ -83,7 +83,7 @@
       "chainId": 1,
       "name": "XRP Token",
       "symbol": "XRP",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png"
     },
@@ -92,7 +92,7 @@
       "chainId": 1,
       "name": "Polkadot Token",
       "symbol": "DOT",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402/logo.png"
     },
@@ -101,7 +101,7 @@
       "chainId": 1,
       "name": "Bitcoin Cash Token",
       "symbol": "BCH",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/logo.png"
     },
@@ -110,7 +110,7 @@
       "chainId": 1,
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png"
     },
@@ -119,7 +119,7 @@
       "chainId": 1,
       "name": "Litecoin Token",
       "symbol": "LTC",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg" ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/logo.png"
     },
@@ -128,7 +128,7 @@
       "chainId": 1,
       "name": "Cardano Token",
       "symbol": "ADA",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
     },
@@ -137,7 +137,7 @@
       "chainId": 1,
       "name": "EOS Token",
       "symbol": "EOS",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6/logo.png"
     },
@@ -155,7 +155,7 @@
       "chainId": 1,
       "name": "Tezos Token",
       "symbol": "XTZ",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg" ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png"
     },
@@ -173,7 +173,7 @@
       "chainId": 1,
       "name": "Ontology Token",
       "symbol": "ONT",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335/logo.png"
     },
@@ -182,7 +182,7 @@
       "chainId": 1,
       "name": "Band Protocol Token",
       "symbol": "BAND",
-      "tags":["Binance-Peg","Cross-Chain"],
+      "tags":["Binance-Peg"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18/logo.png"
     },
@@ -235,7 +235,7 @@
       "chainId": 1,
       "name": "Burger Swap",
       "symbol": "BURGER",
-      "tags":["Yield Farming"],
+      "tags":["Farming"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f/logo.png"
     },

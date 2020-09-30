@@ -78,6 +78,14 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8/logo.png"
     },
      {
+      "address": "0xb0Dc4Af6F1E722dD201aC15216B6afB51e78ff3B",
+      "chainId": 1,
+      "name": "Beer Token",
+      "symbol": "BEER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xb0Dc4Af6F1E722dD201aC15216B6afB51e78ff3B/logo.png"
+    },
+     {
       "address": "0xF8608b4f74E2adfa43FF8527529E961276a47F17",
       "chainId": 1,
       "name": "Hotdogfi.club",

@@ -1,10 +1,10 @@
 {
   "name": "OMGSwap",
-  "timestamp": "2020-09-14T00:00:00+00:00",
+  "timestamp": "2020-09-30T00:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/tokenlist/favicon.png",
   "keywords": [
@@ -16,7 +16,7 @@
        {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
-      "name": "WrappedEther",
+      "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
@@ -24,7 +24,7 @@
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "chainId": 1,
-      "name": "TetherUSD",
+      "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
@@ -32,7 +32,7 @@
     {
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "chainId": 1,
-      "name": "USDCoin",
+      "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
@@ -56,7 +56,7 @@
     {
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
       "chainId": 1,
-      "name": "DaiStablecoin",
+      "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
@@ -120,7 +120,7 @@
     {
       "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
       "chainId": 1,
-      "name": "BandProtocol",
+      "name": "Band Protocol",
       "symbol": "BAND",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
@@ -192,7 +192,7 @@
     {
       "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
       "chainId": 1,
-      "name": "CurveDAOToken",
+      "name": "CurveDAO Token",
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/ethereum/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
